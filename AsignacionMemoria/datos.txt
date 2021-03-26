@@ -1,0 +1,11 @@
+arch1.txt 220
+datos1.txt 370
+prog1.c 502
+datos2.txt 623
+arch2.txt 450
+prog2.c 728
+prog3.c 629
+arch3.txt 825
+datos3.txt 1015
+prog4.c 535
+datos4.txt 462
